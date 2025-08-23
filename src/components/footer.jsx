@@ -27,7 +27,7 @@ export default function Footer(){
             <Image src={twitter} width={40} height={40} alt="twitter"/>
         </a>
     </div>
-    <p className="text-center text-gray-700 font-medium">&copy; 2024 Company Ltd. All rights reservered.</p>
+    <p className="text-center text-gray-700 font-medium">© {new Date().getFullYear()} All rights reservered.</p>
 </footer>
 )
 }
