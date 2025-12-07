@@ -13,15 +13,18 @@ export default function Contact(){
           </div>
           <div className="p-4 shadow-lg rounded-lg[#f9fb71] hover:bg-green-300 transition-colors">
             <h3 className="text-xl text-zinc-800 font-bold">Call Us</h3>
+            <h3 className="text-xl text-zinc-800 font-bold">Call first commit </h3>
             <p className="text-gray-700 mt-2">+91-9785257058</p>
           </div>
           <div className="p-4 shadow-lg rounded-lg[#f9fb71] hover:bg-green-300 transition-colors">
             <h3 className="text-xl text-zinc-800 font-bold">Email Us</h3>
+            <h3 className="text-xl text-zinc-800 font-bold">Email me 2</h3>
             <p className="text-gray-700 mt-2">sumanmahesh2808@gmail.com</p>
           </div>
           <div className="p-4 shadow-lg rounded-lg[#f9fb71] hover:bg-green-300 transition-colors">
             <h3 className="text-xl text-zinc-800 font-bold">Visit Us</h3>
             <p className="text-gray-700 mt-2">Near Sahkari Samiti Suket ,Kota</p>
+            <p className="text-gray-700 mt-2">new  pr  chk aftr clse</p>
           </div>
         </div>
     </div>
