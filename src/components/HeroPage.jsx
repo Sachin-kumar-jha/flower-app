@@ -9,6 +9,7 @@ export default function Hero(){
          <h1 className="py-5 text-4xl  md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-900 ">Revolutionizing Traditional Mala Making</h1>
           <p className=" font-light tracking-tight text-base md:text-lg text-black max-w-lg mx-auto">A Mala making machine automates the bead stringing and knotting process, ensuring precise and consistent results. It blends technology with traditional craftsmanship, allowing for faster and more efficient Mala production while maintaining the authenticity of the art.</p>
         <h1>Second one </h1>
+        <p>will it work   </p>
         </div>
     </div>
     
